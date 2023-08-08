@@ -1,0 +1,12 @@
+button{
+    margin-bottom: 10px;
+}
+body{
+    display: inline-block; 
+    position: absolute;
+}
+#image{
+    height: 100px;
+    width: 100px;
+}
+
