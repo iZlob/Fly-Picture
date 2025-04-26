@@ -1,3 +1,7 @@
+let ggg = 'fffff';
+// hdfhshdjfs
+
+
 let image = document.getElementById("image");//элемент картинка
 let counterX = 0;//счетчик шагов по оси Х
 let counterY = 0;//счетчик шагов по оси У
